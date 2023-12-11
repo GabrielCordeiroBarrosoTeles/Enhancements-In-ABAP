@@ -102,6 +102,8 @@ ENDCLASS.
 ```
 
 Esses são exemplos básicos de como usar Enhancements no SAP ABAP para estender a funcionalidade de programas padrão sem modificar diretamente o código fonte original.
+
+## Pq usar  uso de Enhancements?
 O uso de Enhancements no SAP ABAP oferece vários benefícios, especialmente quando você precisa estender a funcionalidade de objetos padrão do sistema sem modificar diretamente seu código fonte. Aqui estão algumas razões pelas quais você pode querer usar Enhancements:
 
 1. **Não Alteração de Código Padrão:**
